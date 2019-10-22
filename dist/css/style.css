@@ -71,6 +71,10 @@
   background-color: #f9f9f9;
 }
 
+.dropdown:hover>.dropdown-menu{
+  display: block;
+}
+
 /* Pricing Table Section
 --------------------------------*/
 #pricing .block-pricing {
