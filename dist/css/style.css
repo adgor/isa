@@ -523,4 +523,8 @@
   #faq #faq-list i {
     top: 13px;
   }
+
+  .mb-resp {
+    margin-bottom: 1rem;
+  }
 }
